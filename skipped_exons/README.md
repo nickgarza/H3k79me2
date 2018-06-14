@@ -1,0 +1,2 @@
+# Skipped Exon(SE) Sorting
+These scripts were mainly used to look through the indices of our sequencing data and look for unique locations on the human genome to find whether the enrichment of our histone modifier (H3k79me2) caused unique transcription skippings. If so, I would find the percentage that the sequence was aligned to actual coordinates on the genome and report back potential candidates to highlight this skipped exon phenomenon.
